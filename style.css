@@ -1,0 +1,49 @@
+body {
+	width: 960px;
+	background-color: #AAD9D9;
+	margin: auto;
+	font-family: sans-serif;
+}
+
+nav {
+	width: 90%;
+	background-color: white;
+	margin: auto;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+nav a {
+
+	margin-right: 30px;
+	text-decoration: none;
+}
+
+section {
+	background-color: white;
+	width: 90%;
+	height: 500px;
+	margin: 10px auto;
+}
+
+table {
+	margin: auto;
+	border-spacing: 30px;
+}
+
+td {
+	width: 200px;
+	height: 200px;
+	background-color: #AAD9D9;
+}
+
+footer {
+	width: 90%;
+	background-color: white;
+	margin: auto;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	color: #AAD9D9;
+}
